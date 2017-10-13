@@ -41,26 +41,22 @@ h2 {
   font-size: 2.5em;
 }
 
-// background transparency from CSS tricks
-div.ghostback {
-  width: 200px;
-  height: 200px;
-  display: block;
-  position: relative;
+p {
+  margin-bottom: 30px;
 }
 
-div.ghostback::after {
-  content: "";
-  background: url(image.jpg);
-  opacity: 0.5;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  z-index: -1;
+/* couldn't get text over image css trick to work - disabled.
+.image-with-text {
+  position: relative;
+  text-align: center;
 }
-// end background transparency
+.centered-text {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}*/
 
 @media screen and (max-width: 768px) {
   img {
