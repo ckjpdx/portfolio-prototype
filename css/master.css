@@ -1,4 +1,9 @@
-img {
+.img-round {
   border-radius: 50%;
   width: 100%;
+  padding: 5px;
+}
+.hor-cool-list {
+  display: inline;
+  
 }
