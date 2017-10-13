@@ -20,8 +20,12 @@ _Couldn't get a text-over-image CSS trick to work. Had to disable the code attem
 
 ## Support and contact details
 
-_email me via the link provided in the website if you have questions about anything._
+_email me via https://github.com/noodlebrains if you have questions about anything._
 
 ## Technologies Used
 
 _HTML, CSS, bootstrap v4_
+
+## Technologies Used
+
+_Copyright Chris Johnson 2017_
